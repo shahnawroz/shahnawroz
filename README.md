@@ -1,4 +1,6 @@
-👋 Hi, I'm <b>SHAH NAWROSE</b>
+
+<h2>👋 Hi, I'm <b>SHAH NAWROSE</b></h2>
+
 
 🎨 Frontend Developer | Vue.js, Quasar, React Enthusiast
 
