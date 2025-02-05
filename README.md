@@ -2,7 +2,7 @@
 <h2>👋 Hi, My Name is  <b>"SHAH NAWROSE"</b></h2>
 
 
-🎨 Frontend Developer | Vue.js, Quasar, React Enthusiast
+🎨 Frontend Developer | Vue.js, Quasar, React 
 
 ⚡ I specialize in crafting fast, interactive web experiences that delight users
 
