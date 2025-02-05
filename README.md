@@ -1,4 +1,4 @@
-👋 Hi, I'm SHAH NAWROSE
+👋 Hi, I'm <b>SHAH NAWROSE</b>
 
 🎨 Frontend Developer | Vue.js, Quasar, React Enthusiast
 
@@ -11,47 +11,58 @@
 
 
 
+<div  style="margin-top: 2rem;">
+<h2>🚀 My Tech Arsenal</h2>
 
-<div class="container">
-    <h2>🚀 My Tech Arsenal</h2>
-    <table>
-        <tr>
-            <th>Category</th>
-            <th>Technologies</th>
-        </tr>
-        <tr>
-            <td>🎨 Frontend</td>
-            <td>Vue.js, Quasar, React, Node.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS</td>
-        </tr>
-        <tr>
-            <td>📦 Frameworks & Libraries</td>
-            <td>React Router, Vuex, Axios, Bootstrap, Styled Components, Chart.js</td>
-        </tr>
-        <tr>
-            <td>⚡ PWA Development</td>
-            <td>Service Workers, Web Push Notifications, Cache API, Offline Support</td>
-        </tr>
-        <tr>
-            <td>🔗 Version Control</td>
-            <td>Git, GitHub</td>
-        </tr>
-        <tr>
-            <td>🛠️ Tools & Build</td>
-            <td>NPM, Webpack, Prettier</td>
-        </tr>
-        <tr>
-            <td>🔌 API & Backend</td>
-            <td>RESTful APIs, WebSockets, Firebase</td>
-        </tr>
-        <tr>
-            <td>🎯 Design Focus</td>
-            <td>Responsive Web Design, Cross-browser Compatibility, UI/UX Principles</td>
-        </tr>
-    </table>
+<table style="width:100%; text-align: left; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33%; padding: 10px;">
+      🎨 Frontend
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="30"/>
+      </p>
+    </td>
+    <td style="width: 33%; padding: 10px;">
+      📦 Frameworks & Libraries
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
+      </p>
+    </td>
+    <td style="width: 34%; padding: 10px;">
+      🔗 Version Control & 🛠 Tools & Build
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" height="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" height="30"/>
+      </p>
+    </td>
+      <td style="width: 50%; padding: 10px;">
+      🔌 API & Backend
+      <p>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="30"/> 
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
+
+
+
 <div  style="margin-top: 2rem;">
+    
   <h2>🚀 Key Projects</h2>
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr style="background: #007bff; color: white;">
@@ -90,46 +101,47 @@
 <div style="margin-top: 2rem;">
   <h2 style="font-size: 1.8rem; font-weight: bold; color: #333;">📞 Contact & Links</h2>
   <div style="margin-top: 1.5rem;">
+    <table style="width: 100%; text-align: left; border-collapse: collapse;">
+      <tr>
+        <td style="padding: 12px 20px;">
+          <div style="background-color: #f4f7fc; border-left: 4px solid #0077b5; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+            <strong style="font-size: 1.1rem; color: #333;">LinkedIn</strong>
+            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
+              <a href="https://www.linkedin.com/shah-nawrose" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: 500;">🔗 Shah Nawrosee</a>
+            </p>
+          </div>
+        </td>
 
-  
-   <div style="display: flex; gap: 1.5rem; margin-bottom: 1.2rem;">
+   <td style="padding: 12px 20px;">
+          <div style="background-color: #f4f7fc; border-left: 4px solid #24292f; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+            <strong style="font-size: 1.1rem; color: #333;">GitHub</strong>
+            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
+              <a href="https://github.com/shahnawroz" target="_blank" style="color: #24292f; text-decoration: none; font-weight: 500;">🔗 Shah Nawrosee</a>
+            </p>
+          </div>
+        </td>
+    <td style="padding: 12px 20px;">
+          <div style="background-color: #f4f7fc; border-left: 4px solid #25d366; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+            <strong style="font-size: 1.1rem; color: #333;">Phone</strong>
+            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
+              <a href="tel:+8801761867763" style="color: #25d366; text-decoration: none; font-weight: 500;">📞 01761867763</a>
+            </p>
+          </div>
+        </td>
 
-    
-   <div style="background-color: #f4f7fc; border-left: 4px solid #0077b5; padding: 12px 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); flex: 1;">
-        <strong style="font-size: 1.1rem; color: #333;">LinkedIn</strong>
-        <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-          <a href="https://www.linkedin.com/shah-nawrose" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: 500;">🔗 Shah Nawrosee</a>
-        </p>
-      </div>
-
- 
-   <div style="background-color: #f4f7fc; border-left: 4px solid #24292f; padding: 12px 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); flex: 1;">
-        <strong style="font-size: 1.1rem; color: #333;">GitHub</strong>
-        <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-          <a href="https://github.com/shahnawroz" target="_blank" style="color: #24292f; text-decoration: none; font-weight: 500;">🔗 Shah Nawrose</a>
-        </p>
-      </div>
-    </div>
-
-<div style="display: flex; gap: 1.5rem;">
-
-   
-   <div style="background-color: #f4f7fc; border-left: 4px solid #25d366; padding: 12px 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); flex: 1;">
-        <strong style="font-size: 1.1rem; color: #333;">Phone</strong>
-        <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-          <a href="tel:+8801761867763" style="color: #25d366; text-decoration: none; font-weight: 500;">📞 01761867763</a>
-        </p>
-      </div>
-      <div style="background-color: #f4f7fc; border-left: 4px solid #d44638; padding: 12px 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); flex: 1;">
-        <strong style="font-size: 1.1rem; color: #333;">Email</strong>
-        <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-          <a href="mailto:nawrose.mians@gmail.com" style="color: #d44638; text-decoration: none; font-weight: 500;">✉️ nawrose.mians@gmail.com</a>
-        </p>
-      </div>
-    </div>
-
+ <td style="padding: 12px 20px;">
+          <div style="background-color: #f4f7fc; border-left: 4px solid #d44638; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+            <strong style="font-size: 1.1rem; color: #333;">Email</strong>
+            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
+              <a href="mailto:nawrose.mians@gmail.com" style="color: #d44638; text-decoration: none; font-weight: 500;">✉️ nawrose.mians@gmail.com</a>
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
+
 
 
 
