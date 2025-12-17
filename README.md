@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **SHAH NAWROSE**
 
-**🎨 Frontend Developer | Vue.js • Quasar • React Specialist**  
+**🎨 Frontend Developer | Vue.js • Quasar • React • Next • TypeScript • Tailwind**  
 Crafting exceptional digital experiences with modern web technologies
 
 ---
