@@ -1,154 +1,110 @@
+# 👋 Hi, I'm **SHAH NAWROSE**
 
-<h2>👋 Hi, My Name is  <b>"SHAH NAWROSE"</b></h2>
+**🎨 Frontend Developer | Vue.js • Quasar • React Specialist**  
+Crafting exceptional digital experiences with modern web technologies
 
+---
 
-🎨 Frontend Developer | Vue.js, Quasar, React 
+## 💡 About Me
 
-⚡ I specialize in crafting fast, interactive web experiences that delight users
+⚡ **My Focus**  
+I specialize in crafting fast, interactive web experiences that delight users and drive engagement.
 
-💻 From Progressive Web Apps to sleek, modern interfaces, I build what the web needs
+💻 **My Expertise**  
+From Progressive Web Apps to sleek, modern interfaces, I build what the web needs today and tomorrow.
 
-🌱 Always experimenting with new technologies to push the boundaries of frontend development
+🌱 **My Philosophy**  
+Always experimenting with new technologies to push the boundaries of frontend development.
 
+---
 
+## 🚀 My Tech Arsenal
 
+### 🎨 Frontend Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<div  style="margin-top: 2rem;">
-<h2>🚀 My Tech Arsenal</h2>
+### 📦 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<table style="width:100%; text-align: left; border-collapse: collapse;">
-  <tr>
-    <td style="width: 33%; padding: 10px;">
-      🎨 Frontend
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="30"/>
-      </p>
-    </td>
-    <td style="width: 33%; padding: 10px;">
-      📦 Frameworks & Libraries
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="30"/>
-      </p>
-    </td>
-    <td style="width: 34%; padding: 10px;">
-      🔗 Version Control & 🛠 Tools & Build
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" height="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" height="30"/>
-      </p>
-    </td>
-      <td style="width: 50%; padding: 10px;">
-      🔌 API & Backend
-      <p>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="30"/> 
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔌 API & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 🛠 Tools & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+</p>
+
+---
+
+## 🚀 Key Projects
+
+### 🛍️ **Daatti Home Collection**
+**Tech Stack:** `React.js` `Next.js` `Tailwind CSS`
+> A comprehensive digital e-commerce platform enabling clients, vendors, and agents to place orders and generate invoices seamlessly.
+
+[🔗 **Live Demo**](https://daattihomecollection.com) | [📁 View Code](#)
+
+### 🌾 **Abrar Awsaf Farm**
+**Tech Stack:** `React.js` `Next.js` `Tailwind CSS`
+> A specialized e-commerce platform dedicated to agricultural and farm products, connecting farmers with consumers directly.
+
+[🔗 **Live Demo**](https://abrarawsafagrofarm.com) | [📁 View Code](#)
+
+### 💬 **Motamot**
+**Tech Stack:** `React` `Next.js` `Tailwind CSS`
+> An interactive platform where users can share thoughts, opinions, and vote on others' perspectives in a community-driven environment.
+
+[🔗 **Live Demo**](https://motamot.io) | [📁 View Code](#)
+
+### 🛒 **Shei Hoise**
+**Tech Stack:** `Next.js` `TypeScript` `ShadCN UI` `Ant Design` `Tailwind CSS`
+> A sophisticated SaaS-based e-commerce platform featuring separate Admin and Store panels for comprehensive management and streamlined sales operations.
+
+[🔗 **Live Demo**](https://sheihoise.com) | [📁 View Code](#)
+
+---
+
+## 📞 Contact & Links
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shah-nawrose)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahnawroz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawrose.mians@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801761867763)
 
 </div>
 
+<p align="center">
+  <strong>📧 Email:</strong> nawrose.mians@gmail.com<br>
+  <strong>📱 Phone:</strong> +880 1761 867 763
+</p>
 
+---
 
+<div align="center">
 
+### 🎯 Let's Build Something Amazing Together!
 
-<div  style="margin-top: 2rem;">
-    
-  <h2>🚀 Key Projects</h2>
-<table style="width:100%; border-collapse: collapse; text-align: left;">
-  <tr style="background: #007bff; color: white;">
-    <th style="padding: 10px; border: 1px solid #ddd;">Project</th>
-    <th style="padding: 10px; border: 1px solid #ddd;">Tech Stack</th>
-    <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
-    <th style="padding: 10px; border: 1px solid #ddd;">Live Link</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">🛍️ Daatti Home Collection</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">React.js, Next.js, Tailwind CSS</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">A digital e-commerce platform for clients, vendors, and agents to order and generate invoices.</td>
-    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://daattihomecollection.com" target="_blank" style="text-decoration: none;">🔗</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">🌾 Abrar Awsaf Farm</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">React.js, Next.js, Tailwind CSS</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">An e-commerce platform for agricultural and farm products.</td>
-    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://abrarawsafagrofarm.com" target="_blank" style="text-decoration: none;">🔗</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">💬 Motamot</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">React, Next.js, Tailwind CSS</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">A platform where people can share their thoughts and vote on others' opinions.</td>
-    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://motamot.io" target="_blank" style="text-decoration: none;">🔗</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">📈 Bebul</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Vue, Quasar, ApexCharts, WebSockets</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">A trading app similar to Quotex with real-time candlestick charts and chat functionality.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; text-decoration:none"><a  href="https://bebul.pro" target="_blank" style="text-decoration: none;">🔗</a></td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-4CAF50?style=for-the-badge&logo=hire-a-helper&logoColor=white)](#)
+
 </div>
-
-<div style="margin-top: 2rem;">
-  <h2 style="font-size: 1.8rem; font-weight: bold; color: #333;">📞 Contact & Links</h2>
-  <div style="margin-top: 1.5rem;">
-    <table style="width: 100%; text-align: left; border-collapse: collapse;">
-      <tr>
-        <td style="padding: 12px 20px;">
-          <div style="background-color: #f4f7fc; border-left: 4px solid #0077b5; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-            <strong style="font-size: 1.1rem; color: #333;">LinkedIn</strong>
-            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-              <a href="https://www.linkedin.com/shah-nawrose" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: 500;">🔗 Shah Nawrosee</a>
-            </p>
-          </div>
-        </td>
-
-   <td style="padding: 12px 20px;">
-          <div style="background-color: #f4f7fc; border-left: 4px solid #24292f; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-            <strong style="font-size: 1.1rem; color: #333;">GitHub</strong>
-            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-              <a href="https://github.com/shahnawroz" target="_blank" style="color: #24292f; text-decoration: none; font-weight: 500;">🔗 Shah Nawrosee</a>
-            </p>
-          </div>
-        </td>
-    <td style="padding: 12px 20px;">
-          <div style="background-color: #f4f7fc; border-left: 4px solid #25d366; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-            <strong style="font-size: 1.1rem; color: #333;">Phone</strong>
-            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-              <a href="tel:+8801761867763" style="color: #25d366; text-decoration: none; font-weight: 500;">📞 01761867763</a>
-            </p>
-          </div>
-        </td>
-
- <td style="padding: 12px 20px;">
-          <div style="background-color: #f4f7fc; border-left: 4px solid #d44638; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-            <strong style="font-size: 1.1rem; color: #333;">Email</strong>
-            <p style="margin-top: 8px; font-size: 1rem; color: #555;">
-              <a href="mailto:nawrose.mians@gmail.com" style="color: #d44638; text-decoration: none; font-weight: 500;">✉️ nawrose.mians@gmail.com</a>
-            </p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
