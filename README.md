@@ -49,6 +49,8 @@ Frontend developer with a focus on Vue.js and React ecosystems. I build SaaS pla
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Tooling**
 
@@ -67,6 +69,7 @@ Frontend developer with a focus on Vue.js and React ecosystems. I build SaaS pla
 | **Daatti Home Collection** | Multi-role e-commerce platform for clients, vendors, and agents | Next.js · React · Tailwind | [↗](https://daattihomecollection.com) |
 | **Abrar Awsaf Farm** | Agricultural e-commerce connecting farmers and consumers | Next.js · React · Tailwind | [↗](https://abrarawsafagrofarm.com) |
 | **Motamot** | Community opinion platform with voting and discussion | Next.js · React · Tailwind | [↗](https://motamot.io) |
+| **Priority Carpet Clean** | Carpet cleaning service site with online booking system | Next.js · WordPress · Supabase | [↗](https://prioritycarpetclean.com) |
 
 ---
 
@@ -74,8 +77,12 @@ Frontend developer with a focus on Vue.js and React ecosystems. I build SaaS pla
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shahnawroz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawroz&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahnawroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=shahnawroz&theme=tokyonight&hide_border=true" />
 
 </div>
 
