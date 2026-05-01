@@ -77,8 +77,8 @@ Frontend developer with a focus on Vue.js and React ecosystems. I build SaaS pla
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahnawroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnawroz&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnawroz&theme=tokyonight" />
 
 <br/>
 
